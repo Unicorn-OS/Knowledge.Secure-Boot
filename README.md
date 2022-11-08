@@ -4,6 +4,10 @@ Knowledge.Secure Boot, Attestation: playlist( [Secure Boot with ATECC608A](https
 # Topic: Attestation:
 playlist( [Secure Boot with ATECC608A](https://youtu.be/cbOuo-wL2Ms), [Secure Download Firmware Update (DFU)](https://youtu.be/pPrMTRvOv-Y))
 
+# Overview:
+[Windows 10/11 Secure Boot: Sharpen your Security](https://youtu.be/ZF1xGdhyUyw)
+
+
 # Course:
 [Boot Integrity - SY0-601 CompTIA Security+ : 3.2](https://youtu.be/XqtqbJ0nMVY),
 
